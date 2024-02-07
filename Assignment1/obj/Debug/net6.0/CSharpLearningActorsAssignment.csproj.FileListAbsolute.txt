@@ -1,0 +1,15 @@
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.csproj.AssemblyReference.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.AssemblyInfoInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.AssemblyInfo.cs
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\bin\Debug\net6.0\CSharpLearningActorsAssignment.exe
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\bin\Debug\net6.0\CSharpLearningActorsAssignment.deps.json
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\bin\Debug\net6.0\CSharpLearningActorsAssignment.runtimeconfig.json
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\bin\Debug\net6.0\CSharpLearningActorsAssignment.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\bin\Debug\net6.0\CSharpLearningActorsAssignment.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\refint\CSharpLearningActorsAssignment.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\CSharpLearningActorsAssignment.genruntimeconfig.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\CSharpLearningActorsAssignment\obj\Debug\net6.0\ref\CSharpLearningActorsAssignment.dll
