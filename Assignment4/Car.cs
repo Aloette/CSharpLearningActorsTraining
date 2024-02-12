@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
 namespace Assignment4
@@ -17,6 +16,10 @@ namespace Assignment4
             {
                 Console.WriteLine("The car is driving");
             }
+            else
+            {
+                Console.WriteLine("the car has no gasoline, please refuel");
+            }
         }
 
         public bool Refuel(int amount)
@@ -24,10 +27,5 @@ namespace Assignment4
             gasoline += amount;
             return true;
         }
-
-    //The Refuel method will increase the gasoline
-    //of the car and return true.
-
-
     }
 }
