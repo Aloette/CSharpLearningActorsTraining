@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8z/jAUS5ZpesMcJb1JSfK9TPLP7ZoTQ1BGylPB2MVT9WT+w+KF5/F06HbIg0R0qrOhHlvSXtQ0USGkHf/MCvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp\\MyErp.PrintService\\MyErp.PrintService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.antoniou\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
