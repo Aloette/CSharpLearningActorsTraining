@@ -21,3 +21,5 @@ C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application\obj\Debug\net6.0\MyErp.Application.pdb
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application\obj\Debug\net6.0\MyErp.Application.genruntimeconfig.cache
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application\obj\Debug\net6.0\ref\MyErp.Application.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application\bin\Debug\net6.0\MyErp.DAL.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Application\bin\Debug\net6.0\MyErp.DAL.pdb

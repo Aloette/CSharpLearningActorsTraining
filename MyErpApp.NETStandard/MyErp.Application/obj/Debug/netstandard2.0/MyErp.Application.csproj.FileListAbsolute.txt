@@ -1,0 +1,5 @@
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.Application\obj\Debug\netstandard2.0\MyErp.Application.csproj.AssemblyReference.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.Application\obj\Debug\netstandard2.0\MyErp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.Application\obj\Debug\netstandard2.0\MyErp.Application.AssemblyInfoInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.Application\obj\Debug\netstandard2.0\MyErp.Application.AssemblyInfo.cs
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.Application\obj\Debug\netstandard2.0\MyErp.Application.csproj.CoreCompileInputs.cache

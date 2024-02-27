@@ -1,0 +1,12 @@
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\bin\Debug\net6.0\MyErp.PrintService.deps.json
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\bin\Debug\net6.0\MyErp.PrintService.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\bin\Debug\net6.0\MyErp.PrintService.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.csproj.AssemblyReference.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.AssemblyInfoInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.AssemblyInfo.cs
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.csproj.CoreCompileInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\refint\MyErp.PrintService.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\MyErp.PrintService.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.PrintService\obj\Debug\net6.0\ref\MyErp.PrintService.dll

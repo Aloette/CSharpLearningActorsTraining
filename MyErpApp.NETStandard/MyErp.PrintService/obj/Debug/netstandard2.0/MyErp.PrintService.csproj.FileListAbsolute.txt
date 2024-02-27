@@ -1,0 +1,5 @@
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.PrintService\obj\Debug\netstandard2.0\MyErp.PrintService.csproj.AssemblyReference.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.PrintService\obj\Debug\netstandard2.0\MyErp.PrintService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.PrintService\obj\Debug\netstandard2.0\MyErp.PrintService.AssemblyInfoInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.PrintService\obj\Debug\netstandard2.0\MyErp.PrintService.AssemblyInfo.cs
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp.NETStandard\MyErp.PrintService\obj\Debug\netstandard2.0\MyErp.PrintService.csproj.CoreCompileInputs.cache

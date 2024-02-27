@@ -27,6 +27,7 @@
       "MyErp.Business/1.0.0": {
         "dependencies": {
           "MyErp.Business.Interfaces": "1.0.0",
+          "MyErp.DAL": "1.0.0",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
@@ -39,6 +40,14 @@
         },
         "runtime": {
           "MyErp.Business.Interfaces.dll": {}
+        }
+      },
+      "MyErp.DAL/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "MyErp.DAL.dll": {}
         }
       },
       "MyErp.PrintService/1.0.0": {
@@ -70,6 +79,11 @@
       "sha512": ""
     },
     "MyErp.Business.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyErp.DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,15 @@
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.Business.deps.json
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.Business.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.Business.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.Business.Interfaces.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.Business.Interfaces.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.csproj.AssemblyReference.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.AssemblyInfoInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.AssemblyInfo.cs
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.csproj.CoreCompileInputs.cache
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.csproj.CopyComplete
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\refint\MyErp.Business.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.pdb
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\ref\MyErp.Business.dll

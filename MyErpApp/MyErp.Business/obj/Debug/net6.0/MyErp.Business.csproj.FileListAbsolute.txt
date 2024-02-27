@@ -13,3 +13,5 @@ C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\ob
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\refint\MyErp.Business.dll
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\MyErp.Business.pdb
 C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\obj\Debug\net6.0\ref\MyErp.Business.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.DAL.dll
+C:\Users\a.antoniou\Code\CSharpLearningActorsTraining\MyErpApp\MyErp.Business\bin\Debug\net6.0\MyErp.DAL.pdb

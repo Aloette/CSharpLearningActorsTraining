@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business\\MyErp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\MyErp.Business.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\MyErp.Business.Interfaces.csproj",
+        "projectName": "MyErp.Business.Interfaces",
+        "projectPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\MyErp.Business.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\a.antoniou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.antoniou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.kaizengaming.eu/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business\\MyErp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business\\MyErp.Business.csproj",
+        "projectName": "MyErp.Business",
+        "projectPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business\\MyErp.Business.csproj",
+        "packagesPath": "C:\\Users\\a.antoniou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.antoniou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.kaizengaming.eu/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\MyErp.Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.Business.Interfaces\\MyErp.Business.Interfaces.csproj"
+              },
+              "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\MyErp.DAL.csproj": {
+                "projectPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\MyErp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\MyErp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\MyErp.DAL.csproj",
+        "projectName": "MyErp.DAL",
+        "projectPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\MyErp.DAL.csproj",
+        "packagesPath": "C:\\Users\\a.antoniou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.antoniou\\Code\\CSharpLearningActorsTraining\\MyErpApp.NETStandard\\MyErp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.antoniou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.kaizengaming.eu/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
