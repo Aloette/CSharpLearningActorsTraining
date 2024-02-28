@@ -2,9 +2,10 @@
 {
     public class PrintingService
     {
-        public string Print<T>(T input)
+        public void Print<T>(T input)
         {
-            return Newtonsoft.Json.JsonConvert.SerializeObject(input);
+            string json = Newtonsoft.Json.JsonConvert.SerializeObject(input);
+            Console.WriteLine(json);
         }
     }
 }

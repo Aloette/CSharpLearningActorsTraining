@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MyErp.Application.Models\MyErp.Application.Models.csproj" />
     <ProjectReference Include="..\MyErp.Business\MyErp.Business.csproj" />
     <ProjectReference Include="..\MyErp.PrintService\MyErp.PrintService.csproj" />
   </ItemGroup>

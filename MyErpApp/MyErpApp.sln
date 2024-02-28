@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Application", "MyErp.Application\MyErp.Application.csproj", "{A0B4A985-6B16-492A-9E20-EF96917E2CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.Application", "MyErp.Application\MyErp.Application.csproj", "{A0B4A985-6B16-492A-9E20-EF96917E2CEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Business", "MyErp.Business\MyErp.Business.csproj", "{9C2EF560-D573-4BA3-946B-44DF6A30149B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.Business", "MyErp.Business\MyErp.Business.csproj", "{9C2EF560-D573-4BA3-946B-44DF6A30149B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Business.Interfaces", "MyErp.Business.Interfaces\MyErp.Business.Interfaces.csproj", "{AB838F01-B391-4BAE-84B8-E7CEBA018941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.Business.Interfaces", "MyErp.Business.Interfaces\MyErp.Business.Interfaces.csproj", "{AB838F01-B391-4BAE-84B8-E7CEBA018941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.DAL", "MyErp.DAL\MyErp.DAL.csproj", "{40BCCEC0-A3B1-4B39-94D7-4ECBF6E5B2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.DAL", "MyErp.DAL\MyErp.DAL.csproj", "{40BCCEC0-A3B1-4B39-94D7-4ECBF6E5B2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.PrintService", "MyErp.PrintService\MyErp.PrintService.csproj", "{C022C590-3F0A-4778-A5B9-7BA8DB4449FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.PrintService", "MyErp.PrintService\MyErp.PrintService.csproj", "{C022C590-3F0A-4778-A5B9-7BA8DB4449FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyErp.Application.Models", "MyErp.Application.Models\MyErp.Application.Models.csproj", "{2F0F880C-01F7-45EC-9BF2-16A554E7CBEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C022C590-3F0A-4778-A5B9-7BA8DB4449FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C022C590-3F0A-4778-A5B9-7BA8DB4449FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C022C590-3F0A-4778-A5B9-7BA8DB4449FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0F880C-01F7-45EC-9BF2-16A554E7CBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0F880C-01F7-45EC-9BF2-16A554E7CBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0F880C-01F7-45EC-9BF2-16A554E7CBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0F880C-01F7-45EC-9BF2-16A554E7CBEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,10 +5,10 @@
         public int OrderId { get; init; }
         public string? OrderName { get; init; }
 
-        public Order(int orderId, string? orderName)
-        {
-            OrderId = orderId;
-            OrderName = orderName;
-        }
+        //public Order(int orderId, string? orderName)
+        //{
+        //    OrderId = orderId;
+        //    OrderName = orderName;
+        //}
     }
 }

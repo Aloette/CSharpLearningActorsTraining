@@ -1,5 +1,6 @@
 ﻿using MyErp.Business.Interfaces;
 using MyErp.DAL;
+using MyErp.Application.Models;
 
 namespace MyErp.Business
 {
@@ -10,9 +11,10 @@ namespace MyErp.Business
             ErpDB.Orders.Add(entity);
         }
 
-        public IEnumerable<Order> GetAll()
+        public List<Order> GetAll()
         {
-            return new List<Order>();
+            //return new List<Order>();
+            return ErpDB.Orders;
         }
     }
 }

@@ -12,11 +12,11 @@ namespace MyErp.Application.Models
         public string? CustomerName { get; init; }
         public string? CustomerSurname { get; init; }
 
-        public Customer(int customerId, string? customerName, string? customerSurname)
-        {
-            CustomerId = customerId;
-            CustomerName = customerName;
-            CustomerSurname = customerSurname;
-        }
+        //public Customer(int customerId, string? customerName, string? customerSurname)
+        //{
+        //    CustomerId = customerId;
+        //    CustomerName = customerName;
+        //    CustomerSurname = customerSurname;
+        //}
     }
 }
